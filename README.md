@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=e4fgg&hide=contribs&theme=dracula,prs)
+![Maria{s GitHub stats](https://github-readme-stats.vercel.app/api?username=e4fgg&show_icons=true&theme=dracula)
