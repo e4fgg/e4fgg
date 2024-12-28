@@ -4,7 +4,4 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=e4fgg&layout=donut&bg_color=f790b0&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 # Tech Stack (Programming Related)
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java,cpp,postgres,github,git,mysql,vscode)](https://skillicons.dev)
-
-# Tech Stack (Not Programming Related)
-[![My Skills](https://skillicons.dev/icons?i=ae,ps,discord,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,java,cpp,postgres,github,git,mysql,vscode,ae,ps,discord,linkedin)](https://skillicons.dev)
